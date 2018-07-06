@@ -8,8 +8,8 @@ Manage Windows Classic Apps with Intune
 Use the Microsoft Intune Win32 App Packaging Tool to pre-process Windows Classic apps. The packaging tool converts application installation files into the .intunewin format. The packaging tool also detects the parameters required by Intune to determine the application installation state. After you use this tool on your apps, you will be able to upload and assign the apps in the Microsoft Intune console.
 
 Before you install and the use Microsoft Intune Win32 App Packaging Tool you **must**:
-* Review the Microsoft License Terms for Microsoft Intune Win32 App Packaging Tool. Print and retain a copy of the license terms for your records. By downloading and using Microsoft Intune Win32 App Packaging Tool, you agree to such license terms. If you do not accept them, do not use the software.
-* Review the Microsoft Intune Privacy Statement for information on the privacy policy of the Intune Win32 App Packaging Tool.
+* Review the [Microsoft License Terms for Microsoft Intune Win32 App Packaging Tool](https://github.com/Microsoft/Intune-Win32App-Wrapping-Tool/blob/master/Microsoft%20License%20Terms%20For%20Win32%20App%20Packaging%20Tool.pdf). Print and retain a copy of the license terms for your records. By downloading and using Microsoft Intune Win32 App Packaging Tool, you agree to such license terms. If you do not accept them, do not use the software.
+* Review the [Microsoft Intune Privacy Statement](https://docs.microsoft.com/legal/intune/microsoft-intune-privacy-statement) for information on the privacy policy of the Intune Win32 App Packaging Tool.
 
 Sample commands to use for the Microsoft Intune Win32 App Packaging Tool:
 * IntuneWinAppUtil -h

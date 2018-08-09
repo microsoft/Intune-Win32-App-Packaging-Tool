@@ -1,7 +1,7 @@
 # Microsoft Intune Win32 App Packaging Tool
 Manage Windows Classic Apps with Intune
 
-[Version 1.0](https://github.com/Microsoft/Intune-Win32App-Wrapping-Tool/releases)
+[Version 1.1](https://github.com/Microsoft/Intune-Win32-App-Packaging-Tool/releases/tag/Version_1.1)
 
 [See release notes for more information.](https://github.com/Microsoft/Intune-Win32App-Wrapping-Tool/releases)
 

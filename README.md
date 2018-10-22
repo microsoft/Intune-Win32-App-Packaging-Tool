@@ -24,6 +24,7 @@ Sample commands to use for the Microsoft Intune Win32 App Packaging Tool:
 
 Command-line parameters available
 * -h  Help
-* -c  <setup_folder>   Setup folder for all setup files.
+* -c  <setup_folder>   Setup folder for all setup files.All files in this folder will be compressed 
+                       into .intunewin file. Only the setup files for this app should be in this folder.
 * -s  <setup_file>     Setup file (e.g. setup.exe or setup.msi).
 * -o  <output_file>    Output folder for the generated .intunewin file.

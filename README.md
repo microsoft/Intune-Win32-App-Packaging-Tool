@@ -1,7 +1,7 @@
 # Microsoft Intune Win32 App Packaging Tool
 Manage Windows Apps (.intunewin) with Intune
 
-[Version 1.3](https://github.com/Microsoft/Intune-Win32-App-Packaging-Tool/releases/tag/v1.3)
+[Version 1.4](https://github.com/Microsoft/Intune-Win32-App-Packaging-Tool/releases/tag/v1.4)
 
 [See release notes for more information.](https://github.com/Microsoft/Intune-Win32App-Wrapping-Tool/releases)
 

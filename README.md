@@ -11,7 +11,7 @@ Before you install and the use Microsoft Win32 Content Prep Tool you **must**:
 * Review the [Microsoft License Terms for Microsoft Win32 Content Prep Tool](https://github.com/Microsoft/Intune-Win32-App-Packaging-Tool/blob/master/Microsoft%20License%20Terms%20For%20Win32%20Content%20Prep%20Tool.pdf). Print and retain a copy of the license terms for your records. By downloading and using Microsoft Win32 Content Prep Tool, you agree to such license terms. If you do not accept them, do not use the software.
 * Review the [Microsoft Intune Privacy Statement](https://docs.microsoft.com/legal/intune/microsoft-intune-privacy-statement) for information on the privacy policy of the Microsoft Win32 Cotnent Prep Tool.
 
-Sample commands to use for the Microsoft Microsoft Win32 Content Prep Tool:
+Sample commands to use for the Microsoft Win32 Content Prep Tool:
 * IntuneWinAppUtil -h
   * This will show usage information for the tool.
 * IntuneWinAppUtil -c <setup_folder> -s <source_setup_file> -o <output_folder> <-q>
